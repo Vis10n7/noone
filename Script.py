@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Vis10n7>Vision</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/i24x7Update>Movie Channel ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/JB_Corporation>Movie Channel ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -112,7 +112,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/i24x7Update>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Vision</a></b>"""
+<b><a href=https://t.me/Vis10n7>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Vision</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -200,7 +200,7 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Vis10n7</b>
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Vision
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Vis10n7
+• ᴜꜱᴇʀɴᴀᴍᴇ : @S_u_m_m_uu
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Vis10n7'>Vision</a></b>
 """
 
